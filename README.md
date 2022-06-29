@@ -5,10 +5,10 @@
  - https://nftgo.io/
  - https://app.traitsniper.com/
 
-#About IPFS
+# About IPFS
  - https://ipfs.github.io/public-gateway-checker/
 
-#About Security
+# About Security
  - https://ethernaut.openzeppelin.com/
  - https://capturetheether.com/challenges/
  - https://securing.github.io/SCSVS/
